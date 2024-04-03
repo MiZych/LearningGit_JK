@@ -1,5 +1,3 @@
 # LearningGit_JK
-sgsdg
-g
-dfgdf
-gdfd
+
+This project is for internal use only, used for learning Git
